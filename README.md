@@ -1,4 +1,4 @@
-# Bootcamp Git Project
+# Bootcamp Git Project - Repositori Latih
 Sesi Git 1
 
 ## Senarai Arahan
